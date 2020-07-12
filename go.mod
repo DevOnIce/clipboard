@@ -1,1 +1,1 @@
-module github.com/DevOnIce/clipboard
+module github.com/devonice/clipboard
