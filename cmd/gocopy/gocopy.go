@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/DevOnIce/clipboard"
+	"github.com/devonice/clipboard"
 )
 
 func main() {
