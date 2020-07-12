@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/DevOnIce/clipboard"
+	"github.com/devonice/clipboard"
 )
 
 func main() {
